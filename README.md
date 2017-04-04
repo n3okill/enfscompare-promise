@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/n3okill/enfscompare.svg)](https://travis-ci.org/n3okill/enfscompare)
-[![Build status](https://ci.appveyor.com/api/projects/status/hbrhk12g7gmse48t?svg=true)](https://ci.appveyor.com/project/n3okill/enfscompare)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/459632289dfe4dcfab15a69f625ec291)](https://www.codacy.com/app/n3okill/enfscompare)
+[![Build Status](https://travis-ci.org/n3okill/enfscompare-promise.svg)](https://travis-ci.org/n3okill/enfscompare-promise)
+[![AppVeyor status](https://ci.appveyor.com/api/projects/status/3fn85ur8uv38qerq?svg=true)](https://ci.appveyor.com/project/n3okill/enfscompare-promise)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f8ed6ce0bda462e831b6a36b35e1278)](https://www.codacy.com/app/n3okill/enfscompare-promise)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64PYTCDH5UNZ6)
 
 [![NPM](https://nodei.co/npm/enfscompare-promise.png)](https://nodei.co/npm/enfscompare-promise/)
